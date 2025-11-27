@@ -1,4 +1,4 @@
-# Welcome to the German lerner!
+# Welcome to the German Learner!
 
 This is a tiny script I developed a few years ago to help me learn German vocabulary
 quickly and reliably, through sheer repetition. Back when I began to design this tool,
